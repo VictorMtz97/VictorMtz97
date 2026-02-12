@@ -14,7 +14,7 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS COMPUTACIONALES
 
-💻 unos cuántos años de experiencia en el proceso de Ingeniero en Sistemas Computacionales.
+💻 Desarrollador en formación en lenguajes de programación. Me enfoco en mejorar mi lógica y construir proyectos prácticos que resuelvan problemas reales.
 
 📫 Contacto: **victoralejandro971@hotmail.com**
 <!--Intro end-->
