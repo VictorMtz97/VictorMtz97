@@ -12,9 +12,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN SISTEMAS COMPUTACIONALES
+🎓 Ingeniero en Sistemas Computacionales
 
-💻 Desarrollador en formación en lenguajes de programación. Me enfoco en mejorar mi lógica y construir proyectos prácticos que resuelvan problemas reales.
+💻 Programador. Me enfoco en mejorar mi lógica y construir proyectos prácticos que resuelvan problemas reales, ademas de crear proyectos personales para mejorar.
 
 📫 Contacto: **victoralejandro971@hotmail.com**
 <!--Intro end-->
